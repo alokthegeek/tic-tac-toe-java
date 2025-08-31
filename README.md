@@ -1,4 +1,9 @@
 # tic-tac-toe-java
+
+## ▶️ Run the Game
+Play the game live on Replit: [Run Here](https://replit.com/@alokthegeek/tic-tac-toe-java)
+
+
 # 🎮 Tic Tac Toe (Java Console Game)
 
 A simple **2-player Tic Tac Toe** game built in **Java** for the console.
